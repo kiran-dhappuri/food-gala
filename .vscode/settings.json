@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/04b79ea6-6a8d-4e45-bdaa-fedf5f3ede4f/resourceGroups/my-angular/providers/Microsoft.Web/sites/foodgala",
+    "appService.deploySubpath": "dist\\food-gala"
+}
